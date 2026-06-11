@@ -4,10 +4,10 @@
 
 ## 🚀 About Me
 
-🔭 I’m currently working on AI and Data Analytics Projects.
-👯 I’m looking to collaborate on AI and Machine Learning projects.
-🌱 I’m currently learning Generative AI, Agentic AI, and Azure AI Services.
-💬 Ask me about Python, Machine Learning, AI, and Data Analytics.
+* 🔭 I’m currently working on AI and Data Analytics Projects.
+* 👯 I’m looking to collaborate on AI and Machine Learning projects.
+* 🌱 I’m currently learning Generative AI, Agentic AI, and Azure AI Services.
+* 💬 Ask me about Python, Machine Learning, AI, and Data Analytics.
 
 ## 💻 Tech Stack
 
