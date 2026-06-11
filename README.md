@@ -72,12 +72,6 @@ Healthcare appointment management system.
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nathiya-m-btech&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### ✨ Profile Views
 
 ![](https://komarev.com/ghpvc/?username=nathiya-m-btech&color=blue)
