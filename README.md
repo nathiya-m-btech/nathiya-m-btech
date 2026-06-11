@@ -17,7 +17,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nathiya-m-6b366a297/">
+<a href="https://linkedin.com/in/nathiya-m-6b366a297">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -74,7 +74,7 @@ Healthcare appointment management system.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=nathiya-m-btech&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nathiya-m-btech&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
