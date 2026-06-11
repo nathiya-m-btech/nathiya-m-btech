@@ -56,14 +56,17 @@
 
 ## 📌 Featured Projects
 
-### 📊 MarketPulse AI
-Digital Marketing Performance Analysis & Optimization Platform using AI and Predictive Analytics.
+📊 MarketPulse AI – Digital Marketing Performance Analysis & Optimization
 
-### 💰 AI-Based Personal Finance Management System
-AI-powered budgeting and expense tracking platform.
+AI-powered digital marketing analytics platform with predictive insights and performance dashboards.
 
-### 🏥 Patient Appointment Scheduling System
-Healthcare appointment management system.
+🏥 Patient Appointment Scheduling System
+
+Healthcare management system for appointment booking, notifications, and scheduling.
+
+🤖 AI Chatbot System
+
+Intelligent chatbot for automated responses and real-time user interaction.
 
 ---
 
