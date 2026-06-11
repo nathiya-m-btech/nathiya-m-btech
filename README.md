@@ -1,29 +1,55 @@
-# 💫 Hey Hi!! I'm Nathiya M 👋
+<h1 align="center">💫 Hey Hi!! I'm Nathiya M 👋</h1>
 
-🎓 B.Tech Student | AI & Data Analytics Enthusiast
+<h3 align="center">🎓 B.Tech Student | AI & Data Analytics Enthusiast</h3>
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🚀 About Me
 
-* 🔭 I’m currently working on AI and Data Analytics Projects.
-* 👯 I’m looking to collaborate on AI and Machine Learning projects.
-* 🌱 I’m currently learning Generative AI, Agentic AI, and Azure AI Services.
-* 💬 Ask me about Python, Machine Learning, AI, and Data Analytics.
+- 🔭 Currently working on AI & Data Analytics Projects
+- 🌱 Learning Generative AI, Agentic AI, and Azure AI Services
+- 👯 Looking to collaborate on AI & Machine Learning projects
+- 💬 Ask me about Python, Machine Learning, AI, and Data Analytics
+- ⚡ Passionate about solving real-world problems using AI
 
-<h3>💻 Tech Stack:</h3>
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Machine Learning" />
-  <img src="https://shields.io" alt="Artificial Intelligence" />
-  <img src="https://shields.io" alt="Generative AI" />
-  <img src="https://shields.io" alt="Agentic AI" />
-  <img src="https://shields.io" alt="Azure AI Services" />
-  <img src="https://shields.io" alt="Data Analytics" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Power BI" />
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nathiya0709@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-green?style=for-the-badge)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
 
 ## 🏆 Certifications
 
@@ -31,23 +57,29 @@
 
 🏅 Microsoft Certified: Azure AI Engineer Associate (AI-102)
 
+---
+
 ## 📌 Featured Projects
 
 ### 📊 MarketPulse AI
-
-Digital Marketing Performance Analysis & Optimization Platform using AI, Predictive Analytics, and Data Visualization.
+Digital Marketing Performance Analysis & Optimization Platform using AI and Predictive Analytics.
 
 ### 💰 AI-Based Personal Finance Management System
-
-AI-powered solution for budgeting, expense tracking, and financial insights.
+AI-powered budgeting and expense tracking platform.
 
 ### 🏥 Patient Appointment Scheduling System
+Healthcare appointment management system.
 
-Healthcare management platform for appointment booking, notifications, and doctor-patient interaction.
+---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
-* LinkedIn: [Your LinkedIn Profile]
-* Email: [nathiya0709@gmail.com](mailto:nathiya0709@gmail.com)
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)
 
-⭐ Always learning, building, and exploring innovative AI technologies to solve real-world challenges.
+---
+
+### ✨ Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+⭐ Always learning, building, and exploring innovative AI technologies.
