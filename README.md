@@ -9,20 +9,26 @@
 * 🌱 I’m currently learning Generative AI, Agentic AI, and Azure AI Services.
 * 💬 Ask me about Python, Machine Learning, AI, and Data Analytics.
 
-## 💻 Tech Stack
+<h3>💻 Tech Stack:</h3>
 
-* Python
-* Machine Learning
-* Artificial Intelligence
-* Generative AI
-* Agentic AI
-* Azure AI Services
-* Data Analytics
-* SQL & MySQL
-* Power BI
-* HTML5 & CSS3
-* Java
-* Git & GitHub
+<!-- Languages & Core Dev -->
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="Java" />
+<img src="https://shields.io" alt="HTML5" />
+<img src="https://shields.io" alt="CSS3" />
+
+<!-- AI & Machine Learning -->
+<img src="https://shields.io" alt="Machine Learning" />
+<img src="https://shields.io" alt="Artificial Intelligence" />
+<img src="https://shields.io" alt="Generative AI" />
+<img src="https://shields.io" alt="Agentic AI" />
+<img src="https://shields.io" alt="Azure AI Services" />
+
+<!-- Data & Analytics -->
+<img src="https://shields.io" alt="Data Analytics" />
+<img src="https://shields.io" alt="MySQL" />
+<img src="https://shields.io" alt="Power BI" />
+
 
 ## 🏆 Certifications
 
