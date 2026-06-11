@@ -43,11 +43,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=https://github.com/nathiya-m-btech&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=nathiya-m-btech&theme=tokyonight&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/nathiya-m-btech&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nathiya-m-btech&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/nathiya-m-btech&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathiya-m-btech&layout=compact&theme=tokyonight)
 
 ---
 
@@ -74,12 +74,12 @@ Healthcare appointment management system.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=https://github.com/nathiya-m-btech&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=nathiya-m-btech&theme=radical)
 
 ---
 
 ### ✨ Profile Views
 
-![](https://komarev.com/ghpvc/?username=https://github.com/nathiya-m-btech&color=blue)
+![](https://komarev.com/ghpvc/?username=nathiya-m-btech&color=blue)
 
 ⭐ Always learning, building, and exploring innovative AI technologies.
