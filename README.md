@@ -10,9 +10,20 @@
 * 💬 Ask me about Python, Machine Learning, AI, and Data Analytics.
 
 <h3>💻 Tech Stack:</h3>
-### 💻 Tech Stack:
-
-![Python](https://shields.io) ![Java](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Machine Learning](https://shields.io) ![Artificial Intelligence](https://shields.io) ![Generative AI](https://shields.io) ![Agentic AI](https://shields.io) ![Azure AI Services](https://shields.io) ![Data Analytics](https://shields.io) ![MySQL](https://shields.io) ![Power BI](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="Machine Learning" />
+  <img src="https://shields.io" alt="Artificial Intelligence" />
+  <img src="https://shields.io" alt="Generative AI" />
+  <img src="https://shields.io" alt="Agentic AI" />
+  <img src="https://shields.io" alt="Azure AI Services" />
+  <img src="https://shields.io" alt="Data Analytics" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="Power BI" />
+</p>
 
 ## 🏆 Certifications
 
